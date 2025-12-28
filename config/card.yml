@@ -1,0 +1,11 @@
+
+build:
+  version: 1.0.0
+card:
+  message: "Welcome to eazybank card"
+  contactDetails:
+    name: "Ashwith Joshi"
+    email: "ashwith97.joshi@gmail.com"
+  onCallSupport:
+    - 00110-08101
+    - 08010-00110

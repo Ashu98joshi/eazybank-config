@@ -1,0 +1,11 @@
+
+build:
+  version: 3.0.2
+account:
+  message: "Welcome to eazybank production account API"
+  contactDetails:
+    name: "Alok Joshi"
+    email: "alok10j@gmail.com"
+  onCallSupport:
+    - 99910-08101
+    - 89010-00110

@@ -1,0 +1,11 @@
+
+build:
+  version: 2.0.1
+loan:
+  message: "Welcome to eazybank QA loan API"
+  contactDetails:
+    name: "Akriti Joshi"
+    email: "akriti08joshi@gmail.com"
+  onCallSupport:
+    - 05610-08101
+    - 05410-00110

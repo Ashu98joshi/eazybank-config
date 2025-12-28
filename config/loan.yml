@@ -1,0 +1,11 @@
+
+build:
+  version: 1.0.0
+loan:
+  message: "Welcome to eazybank loan API"
+  contactDetails:
+    name: "Ashutosh Joshi"
+    email: "ashu08.joshi@gmail.com"
+  onCallSupport:
+    - 00110-08101
+    - 08010-00110

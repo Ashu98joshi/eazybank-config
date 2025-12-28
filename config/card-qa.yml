@@ -1,0 +1,11 @@
+
+build:
+  version: 2.0.1
+card:
+  message: "Welcome to eazybank QA card API"
+  contactDetails:
+    name: "Ashifa khanam"
+    email: "ashi08khan@gmail.com"
+  onCallSupport:
+    - 95610-08101
+    - 85410-00110

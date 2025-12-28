@@ -1,0 +1,11 @@
+
+build:
+  version: 3.0.2
+loan:
+  message: "Welcome to eazybank production loan API"
+  contactDetails:
+    name: "Alok Nath Joshi"
+    email: "alokN10j@gmail.com"
+  onCallSupport:
+    - 99910-08101
+    - 89010-00110

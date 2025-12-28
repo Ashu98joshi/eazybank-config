@@ -1,0 +1,11 @@
+
+build:
+  version: 3.0.2
+card:
+  message: "Welcome to eazybank production card API"
+  contactDetails:
+    name: "Anoop Joshi"
+    email: "anoop10j@gmail.com"
+  onCallSupport:
+    - 99910-08101
+    - 89010-00110
