@@ -2,11 +2,12 @@
 build:
   version: 3.0.2
 card:
-  message: "Welcome to eazybank production card webhook API"
+  message: "Welcome to eazybank production card web-hook API"
   contactDetails:
     name: "Anoop Joshi"
     email: "anoop10j@gmail.com"
   onCallSupport:
     - 99910-08101
     - 89010-00110
+
 
