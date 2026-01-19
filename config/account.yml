@@ -2,13 +2,14 @@
 build:
   version: 1.0.0
 account:
-  message: "Welcome to eazybank web-hook account API"
+  message: "Welcome to eazybank Web-Hook account API"
   contactDetails:
     name: "Ashutosh Joshi"
     email: "{cipher}1d7b8dec163a73b2a3fe62679f5dc70c2824355676b482e0bed36172003f60365e870e09d7c5eccb2126964f88c2c5f5"
   onCallSupport:
     - 00110-08101
     - 08010-00110
+
 
 
 
